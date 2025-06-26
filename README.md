@@ -1,3 +1,7 @@
+BASİT PORTFOLYO WEB SAYFASI
+![Proje Önizleme](file:///C:/Users/beyzacevrim/Pictures/Screenshots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-26%20144609.png)
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
