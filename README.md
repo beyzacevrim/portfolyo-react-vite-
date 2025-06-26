@@ -2,7 +2,6 @@ BASİT PORTFOLYO WEB SAYFASI
 
 <img src="https://ik.imagekit.io/rmlbayysp/1750938902593-Ekran_görüntüsü_2025-06-26_144609_-Jm3xkBfx.png" alt="image_1" width="400">
 
-![Proje Önizleme](./src/assets/final.png)
 
 
 # React + Vite
