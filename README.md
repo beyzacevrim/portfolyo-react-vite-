@@ -1,5 +1,6 @@
 BASİT PORTFOLYO WEB SAYFASI
-![Proje Önizleme](./assets/final.png)
+
+![Proje Önizleme](../assets/final.png)
 
 
 # React + Vite
