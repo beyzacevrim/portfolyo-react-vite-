@@ -1,5 +1,5 @@
 BASİT PORTFOLYO WEB SAYFASI
-![Proje Önizleme](file:///C:/Users/beyzacevrim/Pictures/Screenshots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-26%20144609.png)
+![Proje Önizleme]([file:///C:/Users/beyzacevrim/Pictures/Screenshots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-26%20144609.png](https://ik.imagekit.io/rmlbayysp/1750938902593-Ekran_görüntüsü_2025-06-26_144609_-Jm3xkBfx.png))
 
 
 # React + Vite
